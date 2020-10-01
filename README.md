@@ -1,4 +1,4 @@
-# Movie_recommender_system
+# Movie Recommendation System
 A machine learning movie recommendation system using collaborative filtering. 
 
 Project contributor: Raja Vikramaditya Panda 
